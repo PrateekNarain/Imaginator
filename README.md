@@ -46,10 +46,7 @@ This project is built using the MERN stack and other modern technologies:
     -   [MongoDB](https://www.mongodb.com/)
 -   **AI Image Generation:**
     -   [Pollinations.ai](https://pollinations.ai/) or a similar AI Image Generation API.
-```/
-├── backend/      # Contains the Node.js & Express.js server-side code
-└── frontend/      # Contains the React.js client-side code
-```
+
 ## Getting Started
 
 Follow these instructions to get a local copy up and running.
@@ -129,3 +126,7 @@ Both the frontend and backend require environment variables to connect to servic
 ## Project Structure
 
 The repository is organized into two main folders:
+```/
+├── backend/      # Contains the Node.js & Express.js server-side code
+└── frontend/      # Contains the React.js client-side code
+```
