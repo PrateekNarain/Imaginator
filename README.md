@@ -10,7 +10,7 @@ An AI-powered application that brings your text prompts to life by generating un
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
 </div>
 
-![AI Image Generator Screenshot](https://i.imgur.com/8aT1u7t.jpg)
+<img width="1919" height="908" alt="Screenshot 2025-09-06 154331" src="https://github.com/user-attachments/assets/5fdf7947-4fc7-40f8-84ce-3b8e69e34b8b" />
 
 ## Table of Contents
 
