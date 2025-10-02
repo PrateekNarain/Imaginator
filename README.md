@@ -48,7 +48,8 @@ This project is built using the MERN stack and other modern technologies:
     -   [Pollinations.ai](https://pollinations.ai/) or a similar AI Image Generation API.
 ```/
 ├── backend/      # Contains the Node.js & Express.js server-side code
-└── frontend/      # Contains the React.js client-side code ```
+└── frontend/      # Contains the React.js client-side code
+```
 ## Getting Started
 
 Follow these instructions to get a local copy up and running.
